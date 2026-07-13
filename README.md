@@ -1,7 +1,7 @@
 # RISCV-RV32I-Core
 Verilog implementation of a RISC-V RV32I core featuring a complete fetch-decode-execute datapath, validated via simulation and deployed on an FPGA
 ## Architecture & Schematics
-📄 [View the full RTL Schematic (PDF)](./docs/RISC-V (1).pdf)
+📄 [View the full RTL Schematic (PDF)](./docs/RISC-V(1).pdf)
 ### Fibonacci Sequence Hardware Verification
 To demonstrate the functional correctness of the instruction fetch-decode-execute path on physical hardware, a compiled assembly program calculating the Fibonacci sequence was loaded into the instruction memory. 
 
